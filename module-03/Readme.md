@@ -24,6 +24,7 @@ Using the AWS Web Console:
 #### Part 2 ScreenShot One
 
 Add screenshot here of AWS Console Launched instance
+![*Screenshot number one*](/module-03/images/screenshot-one.png "Screenshot of AWS console")
 
 #### Part 2 ScreenShot Two
 

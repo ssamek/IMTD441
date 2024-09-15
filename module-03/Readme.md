@@ -29,10 +29,13 @@ Add screenshot here of AWS Console Launched instance
 #### Part 2 ScreenShot Two
 
 Add screenshot here of SSH into the instance and installing Nginx
+![*Screenshot number two*](/module-03/images/screenshot-two.png "Screenshot of installed Nginx")
 
 #### Part 2 ScreenShot Three
 
 Add screenshot here of the the EC2 instance IP address displaying the Nginx, "Hello World."
+![*Screenshot number three*](/module-03/images/screenshot-three.png "Screenshot of running nginx")
+This screenshot shows that the nginx is running however I was unable to open it in my browser.
 
 ### Deliverable
 
